@@ -7,7 +7,7 @@ markup:
         renderer:
             unsafe: true
 
-googleAnalytics: G-ZJ02T1Z9HT
+googleAnalytics: UA-198510096-1
 params:
     env: production
     profileMode:
