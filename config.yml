@@ -1,0 +1,50 @@
+baseURL: https://camsinko.net/
+languageCode: en-us
+title: camsinko.net
+theme: "PaperMod"
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+
+googleAnalytics: G-ZJ02T1Z9HT
+params:
+    env: production
+    profileMode:
+        enabled: true
+        title: "Cam Sinko" # optional default will be site title
+        subtitle: "Incoming Software Engineer @ <u><a href='https://www.anduril.com/'>Anduril</a></u><br>📍Orange County, California 🍊🌴" 
+        imageUrl: "/profile.jpg"
+        imageTitle: "Profile" # optional
+        imageWidth: 160 # custom size
+        imageHeight: 160 # custom size
+    socialIcons:
+      - name: linkedin
+        url: "https://www.linkedin.com/in/csinko"
+      - name: instagram
+        url: "https://instagram.com/camsinko"
+      - name: telegram
+        url: "https://t.me/csinko"
+      - name: github
+        url: "https://www.github.com/csinko"
+      - name: snapchat
+        url: "https://www.snapchat.com/add/csinko"
+      - name: spotify
+        url: "https://open.spotify.com/user/camsinko"
+      - name: discord
+        url: "https://discordapp.com/users/195308673789067264"
+
+menu:
+    main:
+        - identifier: posts 
+          name: posts
+          url: /posts
+          weight: 10
+        - identifier: about
+          name: about
+          url: /about
+          weight: 20
+        - identifier: stuff
+          name: stuff
+          url: /stuff
+          weight: 30
