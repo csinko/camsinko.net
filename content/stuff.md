@@ -7,7 +7,7 @@ TocOpen: true
 
 ## Hardware
 
-**Laptop:** [MacBook Air M1](https://www.apple.com/macbook-air/) in Rose Gold.  Why Rose Gold?  Because gold is bold, like that sweet, sweet M1.
+**Laptop:** [MacBook Air M1](https://www.apple.com/macbook-air/) in Rose Gold.  Why Rose Gold?  Because gold is bold, like that sweet, sweet M1.  The M1 is insanely fast and power efficient.
 
 **Phone:** [iPhone 12 Pro Max](https://www.apple.com/iphone-12-pro/).  Was rocking Android for years, but don't got time to be messing around with ROMs anymore.  The beauty of the Apple ecosystem, *it just works*.  I chose the 12 Pro Max to circumvent the need to buy a nice camera.
 

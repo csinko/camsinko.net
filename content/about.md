@@ -6,11 +6,11 @@ draft: false
 ![Hotwheels Computer](/hotwheels-computer.png#center)
 
 
-I've been fascinated with computers for as long as I can remember.  It started with VB scripts, then evolved to Java and Python, then Linux and C. I've come to learn that I simply love designing with quality tools, and computers are the most powerful tools of today.  I especially like writing software for electronics, networking, and hands-on projects.
+I've been fascinated with computers for as long as I can remember.  what started with basic VB scripts has evolved to writing low-level embedded C code. I've come to learn that I simply love designing with quality tools, and computers are the most powerful tools of today.  I especially like writing software for electronics, networking, and hands-on projects.
 
 Born in Akron, Ohio in 1997, i'm one of the oldest of Gen Z and grew up in The Rust Belt.  I grew up with the internet and social media, which is a first in our world.  For someone that likes to explore, the world at your fingertips was extremely powerful for a young mind.  The Rust Belt is filled with dilapidated infrastructure, abandonment, and corruption, but the internet made it easy to learn anything I wanted.  Unfortunately for me, my skillset outgrew my homeland's dated ecosystem.
 
-After COVID-19 and a 1-year stint in Silicon Valley, I fear that Silicon Valley has peaked and is beginning down the same path that led to the demise of Motor City.  As my next adventure begins, I've packed my bags and am heading to Orange County, California, with hopes of greener pastures.
+After COVID-19 and a 1-year stint in Silicon Valley, I fear that Silicon Valley has peaked and is beginning down the same path that led to the demise of Motor City.  I now live in Orange County, California and work as a software engineer at Anduril.
 
 
 > With your past and your future precisely divided  
