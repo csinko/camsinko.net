@@ -21,14 +21,12 @@ params:
     socialIcons:
       - name: linkedin
         url: "https://www.linkedin.com/in/csinko"
-      - name: instagram
-        url: "https://instagram.com/camsinko"
+      - name: x
+        url: "https://www.twitter.com/camsinko"
       - name: telegram
         url: "https://t.me/csinko"
       - name: github
         url: "https://www.github.com/csinko"
-      - name: snapchat
-        url: "https://www.snapchat.com/add/csinko"
       - name: spotify
         url: "https://open.spotify.com/user/camsinko"
       - name: discord
